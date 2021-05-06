@@ -1,3 +1,6 @@
+The app is currently hosted on:
+https://wednesday.mydud.es
+
 To build the container:
 ```
 docker build --tag immortaly007/wednesday .
